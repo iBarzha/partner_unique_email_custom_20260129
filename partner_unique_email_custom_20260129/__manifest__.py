@@ -1,5 +1,5 @@
 {
-    'name': 'Partner Unique Email',
+    'name': 'Partner Unique Email Custom 20260129',
     'summary': 'Prevent duplicate partner email addresses in the system',
     'author': 'Anton Bardzheiev',
     'website': 'https://github.com/iBarzha/partner-unique-email',
